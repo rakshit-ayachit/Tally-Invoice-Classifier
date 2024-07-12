@@ -115,6 +115,11 @@ Follow these instructions to set up and run the Tally Invoice Classifier on your
 4. **Download and Install Tesseract:**
     - Follow instructions from [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) to install Tesseract.
 
+5. **Download and Extract Models:**
+- Download the BERT model from this [link](https://drive.google.com/file/d/1kzbamC-Rd5d_QspG6NfUIsF2wCtJZ3Rx/view?usp=sharing).
+- Download the TFIDF model from this [link](https://drive.google.com/file/d/1iv5HYuUU_piVrVe6ew_oNIyRsrqf_eas/view?usp=sharing).
+- Extract these zip folders and save them in `root/models` directory as `BERT/` and `TFIDF/`.
+
 ## Running the Application
 
 1. **Start the Streamlit App:**
