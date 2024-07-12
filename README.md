@@ -199,7 +199,7 @@ We welcome contributions! Please follow these steps to contribute:
 ## Contributors and Contact
 
 - **Srujana Akella** -  ([@srujanaakella](https://github.com/srujanaakella)) - [srujanaakella05@gmail.com](mailto:srujanaakella05@gmail.com)
-- **Adit Basak**
+- **Adit Basak** -  ([@Aditbasak](https://github.com/Aditbasak)) - [Aditbasak55@gmail.com](mailto:Aditbasak55@gmail.com)
 ## Project Status
 
 This project is currently deployed and fully functional. While it is operational, additional features and improvements may be added in the future.
